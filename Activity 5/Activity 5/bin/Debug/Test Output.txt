@@ -1,0 +1,10 @@
+matthew
+mark
+luke
+john
+ezra
+enoch
+First Alphabetically: enoch
+Last Alphabetically: matthew
+Longest Word: matthew
+Most Vowels: matthew
