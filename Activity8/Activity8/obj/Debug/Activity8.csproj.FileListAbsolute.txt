@@ -1,0 +1,11 @@
+C:\Users\Christa\Documents\GCU\CST-150\Visual Studio FIles\Activity8\Activity8\bin\Debug\Activity8.exe.config
+C:\Users\Christa\Documents\GCU\CST-150\Visual Studio FIles\Activity8\Activity8\bin\Debug\Activity8.exe
+C:\Users\Christa\Documents\GCU\CST-150\Visual Studio FIles\Activity8\Activity8\bin\Debug\Activity8.pdb
+C:\Users\Christa\Documents\GCU\CST-150\Visual Studio FIles\Activity8\Activity8\obj\Debug\Activity8.csproj.AssemblyReference.cache
+C:\Users\Christa\Documents\GCU\CST-150\Visual Studio FIles\Activity8\Activity8\obj\Debug\Activity8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Christa\Documents\GCU\CST-150\Visual Studio FIles\Activity8\Activity8\obj\Debug\Activity8.CalorieCounter.resources
+C:\Users\Christa\Documents\GCU\CST-150\Visual Studio FIles\Activity8\Activity8\obj\Debug\Activity8.Properties.Resources.resources
+C:\Users\Christa\Documents\GCU\CST-150\Visual Studio FIles\Activity8\Activity8\obj\Debug\Activity8.csproj.GenerateResource.cache
+C:\Users\Christa\Documents\GCU\CST-150\Visual Studio FIles\Activity8\Activity8\obj\Debug\Activity8.csproj.CoreCompileInputs.cache
+C:\Users\Christa\Documents\GCU\CST-150\Visual Studio FIles\Activity8\Activity8\obj\Debug\Activity8.exe
+C:\Users\Christa\Documents\GCU\CST-150\Visual Studio FIles\Activity8\Activity8\obj\Debug\Activity8.pdb
