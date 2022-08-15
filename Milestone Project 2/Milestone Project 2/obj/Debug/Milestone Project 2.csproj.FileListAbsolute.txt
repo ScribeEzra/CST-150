@@ -1,0 +1,11 @@
+C:\Users\Christa\Documents\GCU\CST-150\Visual Studio FIles\Milestone Project 2\Milestone Project 2\bin\Debug\Milestone Project 2.exe.config
+C:\Users\Christa\Documents\GCU\CST-150\Visual Studio FIles\Milestone Project 2\Milestone Project 2\bin\Debug\Milestone Project 2.exe
+C:\Users\Christa\Documents\GCU\CST-150\Visual Studio FIles\Milestone Project 2\Milestone Project 2\bin\Debug\Milestone Project 2.pdb
+C:\Users\Christa\Documents\GCU\CST-150\Visual Studio FIles\Milestone Project 2\Milestone Project 2\obj\Debug\Milestone Project 2.csproj.AssemblyReference.cache
+C:\Users\Christa\Documents\GCU\CST-150\Visual Studio FIles\Milestone Project 2\Milestone Project 2\obj\Debug\Milestone Project 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Christa\Documents\GCU\CST-150\Visual Studio FIles\Milestone Project 2\Milestone Project 2\obj\Debug\Milestone_Project_2.Properties.Resources.resources
+C:\Users\Christa\Documents\GCU\CST-150\Visual Studio FIles\Milestone Project 2\Milestone Project 2\obj\Debug\Milestone Project 2.csproj.GenerateResource.cache
+C:\Users\Christa\Documents\GCU\CST-150\Visual Studio FIles\Milestone Project 2\Milestone Project 2\obj\Debug\Milestone Project 2.csproj.CoreCompileInputs.cache
+C:\Users\Christa\Documents\GCU\CST-150\Visual Studio FIles\Milestone Project 2\Milestone Project 2\obj\Debug\Milestone Project 2.exe
+C:\Users\Christa\Documents\GCU\CST-150\Visual Studio FIles\Milestone Project 2\Milestone Project 2\obj\Debug\Milestone Project 2.pdb
+C:\Users\Christa\Documents\GCU\CST-150\Visual Studio FIles\Milestone Project 2\Milestone Project 2\obj\Debug\Milestone_Project_2.libraryOfGames.resources
