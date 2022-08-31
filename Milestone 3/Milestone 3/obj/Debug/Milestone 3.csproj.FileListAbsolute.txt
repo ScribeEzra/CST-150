@@ -1,0 +1,11 @@
+C:\Users\Christa\Documents\GCU\CST-150\Visual Studio FIles\Milestone 3\Milestone 3\obj\Debug\Milestone 3.csproj.AssemblyReference.cache
+C:\Users\Christa\Documents\GCU\CST-150\Visual Studio FIles\Milestone 3\Milestone 3\obj\Debug\Milestone 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Christa\Documents\GCU\CST-150\Visual Studio FIles\Milestone 3\Milestone 3\obj\Debug\Milestone_3.Form1.resources
+C:\Users\Christa\Documents\GCU\CST-150\Visual Studio FIles\Milestone 3\Milestone 3\obj\Debug\Milestone_3.Properties.Resources.resources
+C:\Users\Christa\Documents\GCU\CST-150\Visual Studio FIles\Milestone 3\Milestone 3\obj\Debug\Milestone 3.csproj.GenerateResource.cache
+C:\Users\Christa\Documents\GCU\CST-150\Visual Studio FIles\Milestone 3\Milestone 3\obj\Debug\Milestone 3.csproj.CoreCompileInputs.cache
+C:\Users\Christa\Documents\GCU\CST-150\Visual Studio FIles\Milestone 3\Milestone 3\bin\Debug\Milestone 3.exe.config
+C:\Users\Christa\Documents\GCU\CST-150\Visual Studio FIles\Milestone 3\Milestone 3\bin\Debug\Milestone 3.exe
+C:\Users\Christa\Documents\GCU\CST-150\Visual Studio FIles\Milestone 3\Milestone 3\bin\Debug\Milestone 3.pdb
+C:\Users\Christa\Documents\GCU\CST-150\Visual Studio FIles\Milestone 3\Milestone 3\obj\Debug\Milestone 3.exe
+C:\Users\Christa\Documents\GCU\CST-150\Visual Studio FIles\Milestone 3\Milestone 3\obj\Debug\Milestone 3.pdb
